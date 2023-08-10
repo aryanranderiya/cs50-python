@@ -1,0 +1,1 @@
+print(input("Enter some text \n").replace(" ","..."))
