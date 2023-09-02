@@ -1,0 +1,5 @@
+cachetools==4.2.2
+Pillow==8.3.2
+requests==2.26.0
+spotipy==2.18.0
+tk==0.1.0
