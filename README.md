@@ -26,7 +26,7 @@ This repository contains my solutions to the problem sets for each week of the c
 - [Week 6: File I/O](week6/)
 - [Week 7: Regular Expressions](week7/)
 - [Week 8: Object-Oriented Programming](week8/)
-- [Week 9: Et Cetera](FinalProject/)
+- [Week 9: Et Cetera (Final Project)](Final%20project/)
 
 Each problem set folder contains the relevant Python code, explanations, and any additional files necessary to understand and complete the assignment.
 
