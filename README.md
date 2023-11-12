@@ -28,8 +28,6 @@ This repository contains my solutions to the problem sets for each week of the c
 - [Week 8: Object-Oriented Programming](week8/)
 - [Week 9: Et Cetera (Final Project)](Final%20project/)
 
-Each problem set folder contains the relevant Python code, explanations, and any additional files necessary to understand and complete the assignment.
-
 ## Usage
 To use this repository, follow these steps:
 
