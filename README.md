@@ -1,3 +1,7 @@
+> ## ⭐ Feel free to star this repository if it was helpful!
+
+<br>
+
 # Harvard CS50 Python Problem Sets
 
 Welcome to the Harvard CS50 Python Problem Sets repository! This repository contains my solutions to the problem sets for CS50's Introduction to Computer Science using Python. This course is offered by Harvard University through edX.
